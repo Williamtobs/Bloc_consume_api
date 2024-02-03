@@ -1,1 +1,0 @@
-# Bloc_consume_api
